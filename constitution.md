@@ -27,14 +27,14 @@ Membership is open for people to join and leave at any time. https://www.meetup.
 ## Subscriptions
 
 There is no cost of membership. On occasion we may decide to charge an 
-entry fee if we have to incur costs in order to put on an event, however we will endeavour to avoid 
+entry fee if we have to incur costs in order to put on an event, but we will endeavour to avoid 
 this wherever possible. 
 
 ## Committee
 
 The committee exists primarily for the management of our finances. Other day to day activities are
-organised by the volunteers on #organisation-scotland slack channel on the queer code slack. 
-See https://queer-code.org for details on how to join this slack.
+organised by the volunteers on the #organisation-scotland Slack channel on the Queer Code Slack. 
+See https://queer-code.org for details on how to join this Slack.
 
 The committee will be formed of a minimum of two people: a chairperson and treasurer. 
 Additional committee members may be appointed as required.
