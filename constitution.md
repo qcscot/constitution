@@ -36,15 +36,19 @@ The committee exists primarily for the management of our finances. Other day to 
 organised by the volunteers on the #organisation-scotland Slack channel on the Queer Code Slack. 
 See https://queer-code.org for details on how to join this Slack.
 
-The committee will be formed of a minimum of two people: a chairperson and treasurer. 
+The committee will be formed of a minimum of three people: a chairperson, treasurer and secretary.
 Additional committee members may be appointed as required.
 
-Appointment to the committee will be by agreement of the existing committee members.
+Appointment to the committee will be by agreement of the majority of existing committee members.
 
 Any committee member may step down from their position by informing the remainder of the committee.
 
 In the event of misconduct of a committee member, the committee may require a committee member to 
 leave the committee. This decision must be reached by a majority of committee members.
+
+If the departure of a committee member from the committee results in there being less than 3
+members left on the committee, the remaining members of the committee must appoint another
+committee member as soon as practicably possible.
 
 ## Finances
 
