@@ -21,7 +21,7 @@ warning (and without refund in the case of a paid event).
 
 ## Membership
 
-A member is deemed as someone who is a member of our meetup group. 
+We currently use our meetup group as our members list. 
 Membership is open for people to join and leave at any time. https://www.meetup.com/qcscot/members/
 
 ## Subscriptions
