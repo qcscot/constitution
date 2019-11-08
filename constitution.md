@@ -67,6 +67,11 @@ provided that it is for one of the following reasons:
 Signatories are not authorised to spend more money than we have in our accounts, nor are they 
 authorised to apply for credit facilities on behalf of the organisation.
 
+Any one individual signatory may sign any agreement(s) relating to electronic banking services on
+behalf of the organisation, provided that any such agreement does not contradict any item mentioned
+in this constitution. For example, a signatory may apply for internet banking access, but a
+signatory must not apply for credit facilities.
+
 ## Dissolution
 
 If Queer Code Scotland were ever to be disbanded, any assets must be donated to an
